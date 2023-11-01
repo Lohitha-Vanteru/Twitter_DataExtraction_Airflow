@@ -35,4 +35,8 @@ This project provides a detailed guide on building a data pipeline using Airflow
 - This project is intended for educational or testing purposes. Before using the data in production, ensure compliance with Twitter's terms of service and relevant laws and regulations.
 - Consider data privacy, security, and compliance in any production implementation.
 
+## References
+https://blog.quantinsti.com/python-twitter-api/
+
+
 
